@@ -1,0 +1,10 @@
+{
+  "$schema": "https://www.partykit.io/schema.json",
+  "name": "fireproof-cloud",
+  "main": "src/server.ts",
+  "compatibilityDate": "2024-10-09",
+  "serve": {
+    "path": "public",
+    "build": "src/client.ts"
+  }
+}
