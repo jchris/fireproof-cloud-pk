@@ -6,5 +6,8 @@
   "serve": {
     "path": "public",
     "build": "src/client.ts"
+  },
+  "parties": {
+    "fireproof": "node_modules/@fireproof/partykit/server.ts"
   }
 }

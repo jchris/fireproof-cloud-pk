@@ -7,6 +7,7 @@
     "deploy": "partykit deploy"
   },
   "dependencies": {
+    "@fireproof/partykit": "^0.19.11-dev-dryrun5",
     "partysocket": "^1.0.2"
   },
   "devDependencies": {
